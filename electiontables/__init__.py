@@ -1,1 +1,1 @@
-from electiontables import *
+import electoral_id

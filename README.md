@@ -1,3 +1,8 @@
+# Installation
+```
+pip install git+https://github.com/electiontables/electiontables
+```
+
 # API
 
 # Dataset fields

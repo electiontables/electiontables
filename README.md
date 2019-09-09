@@ -3,6 +3,13 @@
 pip install git+https://github.com/electiontables/electiontables
 ```
 
+# Examples
+```python
+import electiontables
+
+D = electiontables.load('...')
+```
+
 # API
 
 # Dataset fields
